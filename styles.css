@@ -16,4 +16,5 @@ body{
 h1{
   font-weight:800; /*define el grosor o "peso" de una fuente, determinando si el texto se ve más o menos negrita*/
   text-align: center;
+  margin: -4px 0;
 }
