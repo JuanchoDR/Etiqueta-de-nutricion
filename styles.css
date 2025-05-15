@@ -17,6 +17,7 @@ h1{
   font-weight:800; /*define el grosor o "peso" de una fuente, determinando si el texto se ve más o menos negrita*/
   text-align: center;
   margin: -4px 0;
+  letter-spacing:0.15px; /*para dar espacio entre un texto*/
 }
 
 p{
