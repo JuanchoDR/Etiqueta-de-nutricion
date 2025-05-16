@@ -21,6 +21,8 @@ h1{
 
 p{
   margin: 0;
+  display:flex;
+  justify-content:space-between;/*crea una espacio en medio de un texto en linea o de una caja*/
 }
 
 .divider{
