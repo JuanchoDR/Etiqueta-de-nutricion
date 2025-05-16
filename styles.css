@@ -32,3 +32,10 @@ p{
 .bold{
   font-weight: 800;/*define el grosor o "peso" de una fuente, determinando si el texto se ve más o menos negrita*/
 }
+
+.large{
+  height:10px;
+}
+.large, .medium{
+  background-color:black;
+}
