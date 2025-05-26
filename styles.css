@@ -77,3 +77,9 @@ p{
 .daily-value p:not(.no-divider) { /*El pseudo-selector :not se puede utilizar para seleccionar todos los elementos que no coincidan con la regla CSS dada.*/
   border-bottom: 1px solid #888989;/*En las class="no divider" no se aplicaran los estilo gracia a :not()*/
 }
+.note{
+  font-size: 0.6rem;
+  margin: 5px 0;
+  padding: 0 8px; 
+  text-indent: -8px;
+}
